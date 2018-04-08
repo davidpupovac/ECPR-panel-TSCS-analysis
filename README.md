@@ -4,10 +4,10 @@
 
 |        | Topics       |                                    |     
 | ------ | ------------ | ---------------------------------------|
-| Day 1  | Introduction to panel data analysis, robust, clustered and panel corrected standard errors|90min lecture, 90min lab |
+| Day 1  | Introduction to panel data analysis, FGLS, robust, clustered and panel corrected standard errors|90min lecture, 90min lab |
 | Day 2  | Within and between effects, fixed effects models  | 90min lecture, 90min lab |
-| Day 3  | Random effects and  modelling dynamics in panel data | 90min lecture, 90min lab |
-| Day 4  | Random coefficients, spatial autocorrelation, binary, multinomial and censored dependent variables| 90min lecture, 90min lab |
+| Day 3  | Random effects, random coefficients and  modelling dynamics in panel data | 90min lecture, 90min lab |
+| Day 4  | Spatial autocorrelation, binary, multinomial and censored dependent variables| 90min lecture, 90min lab |
 | Day 5  | Instrumental variable and simultaneous equation models | 90min lecture, 90min lab |
 
 
