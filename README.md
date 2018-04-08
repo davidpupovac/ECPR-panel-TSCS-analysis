@@ -2,7 +2,7 @@
 
 ## Schedule
 
-|        | ###Topics       |                                    |     
+|        | Topics       |                                    |     
 | ------ | ------------ | ---------------------------------------|
 | Day 1  | Introduction to panel data analysis, clustered standard errors and panel corrected standard errors|90min lecture, 90min lab |
 | Day 2  | Within and between effects, fixed effects models  | 90min lecture, 90min lab |
