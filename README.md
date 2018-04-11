@@ -1,4 +1,4 @@
-# ECPR summer school -- Panel (times series cross-section) data analysis
+# ECPR summer school -- Panel (times series cross-sectional) data analysis
 
 ## Schedule
 
