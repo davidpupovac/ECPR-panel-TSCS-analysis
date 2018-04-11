@@ -5,10 +5,10 @@
 |        | Topics       |                                    |     
 | ------ | ------------ | ---------------------------------------|
 | Day 1  | Introduction to panel data analysis, FGLS, robust, clustered and panel corrected standard errors|90min lecture, 90min lab |
-| Day 2  | Within and between effects, fixed effects models  | 90min lecture, 90min lab |
-| Day 3  | Random effects, random coefficients and  modelling dynamics in panel data | 90min lecture, 90min lab |
-| Day 4  | Spatial autocorrelation, binary, multinomial and censored dependent variables| 90min lecture, 90min lab |
-| Day 5  | Instrumental variable and simultaneous equation models | 90min lecture, 90min lab |
+| Day 2  | Within and between effects, first difference estimator, fixed effects models  | 90min lecture, 90min lab |
+| Day 3  | Random effects, Swamy–Arora estimator, Hausman–Taylor/Amemiya–MaCurdy, random coefficients model | 90min lecture, 90min lab |
+| Day 4  | Modeling dynamics and nonstationary series, IV models (Anderson and Hsiao), generalized method of moments (Arellano-Bover/Blundell-Bond estimator) | 90min lecture, 90min lab |
+| Day 5  | Spatial autocorrelation, binary, multinomial and censored dependent variables, instrumental variable models| 90min lecture, 90min lab |
 
 
 
@@ -22,16 +22,17 @@ The first lecture approaches the problem of panel data from the linear regressio
 
 ## Day 2
 
-The second session is initiated by discussing distinction between the within and between effects. Firstly, we will discuss estimation of between effects model. However, the focus of the session will be on addressing the theory of fixed effects models; particularly, on estimation of fixed effects using dummy variables and demeaning; and estimation of fixed effect in Stata, Furthermore, Hurwicz/Nickell bias is discussed, while the final segment of the class dedicated to discussion of two way fixed effects model.
+The second session is initiated by discussing distinction between the within and between effects. Firstly, we will discuss estimation of between effects model. However, the focus of the session will be on addressing the theory of fixed effects models; particularly, on estimation of fixed effects using dummy variables and demeaning; and estimation of fixed effect in Stata. The final segment of the class dedicated to discussion of two way fixed effects model.
 
 ## Day 3
 
-The third session will firstly address one way random effects model. The distinction between random effects and fixed effects models is elaborated in detail. In addition, we will discuss the Hausman test and the selection between random effects and fixed effects models. Furthermore, we will discuss the relevant diagnostics tests. Finally, we will progress to fixed- and random-effects linear models with an AR(1) disturbance and discuss modelling dynamics in panel data.
+The third session will firstly address one way random effects model. The distinction between random effects and fixed effects models is elaborated in detail. In addition, we will discuss the Hausman test and the selection between random effects and fixed effects models. Furthermore, we will discuss the relevant diagnostics tests. Finally, we will progress to  Swamy–Arora estimator, Hausman–Taylor/Amemiya–MaCurdy and random coefficients models
 
 ## Day 4
 
-In the fourth session the discussion on unit heterogeneity and dynamics is further extended by addressing random coefficients model. In this section we will address the problem of spatial autocorrelation and methodological alternatives for addressing this type of problems. Lastly, the extensions of panel data analysis to binary, multinomial and censored dependent variables are presented.
+The fourth session addresses dynamics in time series cross sectional setting. Basis dynamic TSCS models (finite distributed lag, lagged dependent variable, and autoregressive distributed lag) and Hurwicz/Nickell bias are discussed. In addition the dynamic panel models are elaborated (IV model (Anderson and Hsiao), generalized method of moments (Arellano-Bover/Blundell-Bond estimator)
 
 ## Day 5
 
-The final session is dedicated to the more advance topics in panel data analysis. In this session we will discuss several topics including: problems and solutions for unbalanced data sets; time invariant and slowly moving variables; instrumental variable approaches and simultaneous equation models.
+The final session is dedicated to the more advance topics in panel data analysis. In this session we will discuss several topics including: spatial autocorrelation and methodological alternatives for addressing this type of problems; the extensions of panel data analysis to binary, multinomial and censored dependent variables; and instrumental variable approaches to panel data.
+
