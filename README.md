@@ -1,4 +1,4 @@
-# ECPR summer school -- Panel (times series cross-sectional) data analysis
+# European Consortium for Political Research summer school -- Panel (times series cross-sectional) data analysis
 
 ## Schedule
 
